@@ -1,0 +1,36 @@
+body{
+
+    columns: #555555;
+    background-color: cornflowerblue;
+    font:normal 20px Arial,Helvetica,sans-serif;
+    line-height: 1.5em}
+
+.box2{
+    color:black;
+    word-spacing: 1em;
+}
+.box1{
+    color:black;
+    word-spacing: 0.5em;
+}
+
+.box1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 3em;
+    
+    letter-spacing: 0em;
+    word-spacing: 1em;
+}
+
+
+
+
+.container {
+    width: 80%;
+    margin:auto;
+}
+
+.list li{
+    list-style:circle;
+}
